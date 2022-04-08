@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Red
+Favorite food: Hamburger
+Favorite musician/band: The Weeknd
+Favorite movie: The Grudge
+Requested grade in the course: 100
